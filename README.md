@@ -1,4 +1,4 @@
-📚 Books Web Scraper
+#📚 Books Web Scraper
 A Python web scraper that extracts book details (name, price, rating, availability, and category) from Books to Scrape and saves the data in an Excel file.
 
 🚀 Features
