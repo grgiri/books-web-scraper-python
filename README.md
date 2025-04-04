@@ -8,7 +8,7 @@ A Python web scraper that extracts book details (**name, price, rating, availabi
 
 ✅ Scrapes all **book categories** automatically  
 ✅ Handles **pagination** for multi-page categories  
-✅ Saves data to an **Excel file (`books.xlsx`)**  
+✅ Saves data to an **Excel file (`bookscrape.xlsx`)**  
 ✅ Structured **Google Colab-friendly notebook**  
 ✅ Modular functions for **easy modification**  
 
